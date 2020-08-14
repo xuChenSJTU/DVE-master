@@ -36,9 +36,9 @@ The default dataset is epinions_small and other hyper-parameters can be changed 
 
 If you find this paper and codes are useful, please cite our paper. Thank you.  
 
-@inproceedings{xu2019decoupled,
-  title={Decoupled Variational Embedding for Signed Directed Networks},
-  author={Xu Chen, Jiangchao Yao, Maosen Li, Ya Zhang, Yanfeng Wang},
-  booktitle={ACM Transactions on the Web},
-  year={2019}
-}
+@inproceedings{xu2019decoupled,  
+  title={Decoupled Variational Embedding for Signed Directed Networks},  
+  author={Xu Chen, Jiangchao Yao, Maosen Li, Ya Zhang, Yanfeng Wang},  
+  booktitle={ACM Transactions on the Web},  
+  year={2019}  
+}  
