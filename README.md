@@ -1,7 +1,7 @@
 # DVE-master  
 This is a tensorflow implementation of our TWEB 2019 paper:  
 Decoupled Variational Embedding for Signed Directed Networks.  
-You can access the paper through:  
+You can access the paper through:  https://arxiv.org/abs/2008.12450
 
 Requirements:  
 tensorflow-gpu==1.7.0;  
