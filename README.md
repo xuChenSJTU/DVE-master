@@ -1,16 +1,20 @@
-# DVE-master  
+# Decoupled Variational Embedding for Signed Directed Networks.    
 This is a tensorflow implementation of our TWEB 2019 paper:  
 Decoupled Variational Embedding for Signed Directed Networks.  
-You can access the paper through:  https://arxiv.org/abs/2008.12450
+You can access the paper through:  https://arxiv.org/abs/2008.12450  
 
-Requirements:  
+## A motivation figure  
+
+
+# Codes
+## Requirements:  
 tensorflow-gpu==1.7.0;  
 pandas==0.25.0;  
 numpy==1.15.2;  
 scipy==1.1.0;  
 sklearn==0.20.0;  
 
-How to run:  
+## How to run:  
 
 First, you need to download the data in:   
 Google Drive:  https://drive.google.com/file/d/12d1oZDT338ez9fAVSLgSwQKg7lMiGHCy/view?usp=sharing  
