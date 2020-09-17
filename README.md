@@ -4,7 +4,11 @@ Decoupled Variational Embedding for Signed Directed Networks.
 You can access the paper through:  https://arxiv.org/abs/2008.12450  
 
 ## A motivation figure  
-
+![motivation](https://github.com/xuChenSJTU/DVE-master/blob/master/motivation.png)  
+## The general architechure  
+![general](https://github.com/xuChenSJTU/DVE-master/blob/master/generature_architecture.png)  
+## The model architecture  
+![model](https://github.com/xuChenSJTU/DVE-master/blob/master/model_architecture.png)  
 
 # Codes
 ## Requirements:  
