@@ -42,6 +42,7 @@ CUDA_VISIBLE_DEVICES=gpu_num python DVE_main.py
 
 The default dataset is epinions_small and other hyper-parameters can be changed according to the demonstration in our paper.  
 
+# Reference   
 If you find this paper and codes are useful, please cite our paper. Thank you.  
 
 @inproceedings{xu2019decoupled,  
